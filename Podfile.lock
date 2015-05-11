@@ -1,0 +1,49 @@
+PODS:
+  - AFNetworking (2.5.3):
+    - AFNetworking/NSURLConnection (= 2.5.3)
+    - AFNetworking/NSURLSession (= 2.5.3)
+    - AFNetworking/Reachability (= 2.5.3)
+    - AFNetworking/Security (= 2.5.3)
+    - AFNetworking/Serialization (= 2.5.3)
+    - AFNetworking/UIKit (= 2.5.3)
+  - AFNetworking/NSURLConnection (2.5.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.3)
+  - AFNetworking/Security (2.5.3)
+  - AFNetworking/Serialization (2.5.3)
+  - AFNetworking/UIKit (2.5.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - DateTools (1.5.0)
+  - MagicalRecord/Shorthand (2.2)
+  - Mantle (2.0):
+    - Mantle/extobjc (= 2.0)
+  - Mantle/extobjc (2.0)
+  - ReactiveCocoa (2.1.8):
+    - ReactiveCocoa/Core (= 2.1.8)
+    - ReactiveCocoa/no-arc (= 2.1.8)
+  - ReactiveCocoa/Core (2.1.8):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.1.8)
+
+DEPENDENCIES:
+  - AFNetworking (= 2.5.3)
+  - DateTools
+  - MagicalRecord/Shorthand
+  - Mantle
+  - ReactiveCocoa (= 2.1.8)
+
+SPEC CHECKSUMS:
+  AFNetworking: e1d86c2a96bb5d2e7408da36149806706ee122fe
+  DateTools: b93a2c2017747329c6077c7d7e8a75106e23d0d7
+  MagicalRecord: f8a56bb87ab6552f20c4bb8681a1958a197ea3cd
+  Mantle: d7c75b6fb789b20f7ae30cd0d09435fe545896ff
+  ReactiveCocoa: f89f2e009a87951b50321bf9feb958823fcc617e
+
+COCOAPODS: 0.35.0
